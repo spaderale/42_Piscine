@@ -6,7 +6,7 @@
 /*   By: abroslav <abroslav@student.42porto.com>    +#+  +:+       +#+        */
 /*                                                +#+#+#+#+#+   +#+           */
 /*   Created: 2025/02/27 22:04:19 by abroslav          #+#    #+#             */
-/*   Updated: 2025/03/13 17:55:51 by abroslav         ###   ########.fr       */
+/*   Updated: 2025/03/13 17:57:11 by abroslav         ###   ########.fr       */
 /*                                                                            */
 /* ************************************************************************** */
 
@@ -32,9 +32,7 @@ int	ft_str_is_printable(char *str)
 	return (1);
 }
 
-/*#include <stdio.h>
-
-int	main(void)
+/*int	main(void)
 {
 	char str1[15] = "42 Piscine";
         char str2[15] = "piscine\n";
@@ -50,3 +48,6 @@ int	main(void)
 
        	return(0);
 }*/
+
+//Create a function that returns 1 if the string given as a parameter contains only
+//printable characters, and 0 if it contains any other character.
