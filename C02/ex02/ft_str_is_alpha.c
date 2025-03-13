@@ -6,7 +6,7 @@
 /*   By: abroslav <abroslav@student.42porto.com>    +#+  +:+       +#+        */
 /*                                                +#+#+#+#+#+   +#+           */
 /*   Created: 2025/02/27 18:26:26 by abroslav          #+#    #+#             */
-/*   Updated: 2025/03/13 17:43:13 by abroslav         ###   ########.fr       */
+/*   Updated: 2025/03/13 17:44:31 by abroslav         ###   ########.fr       */
 /*                                                                            */
 /* ************************************************************************** */
 
@@ -44,5 +44,5 @@ int	ft_str_is_alpha(char *str)
 }*/
 
 //Create a function that returns 1 if the string given as a parameter contains only
-//digits, and 0 if it contains any other character.
+//alphabetical characters, and 0 if it contains any other character.
 //It should return 1 if str is empty.
