@@ -1,112 +1,139 @@
-42 Piscine - C Projects
-This repository contains the solutions to the exercises from the 42 Piscine, with the aim of learning and deepening knowledge in C in a practical way. Each directory corresponds to a set of exercises covering different topics, such as string manipulation, recursive programming, input/output operations, and even file manipulation in the shell.
+# 🏊‍♂️ 42 Piscine Exercises – by Alexandre Spader
 
-What is 42?
-42 is a programming school with a teaching model based on practical projects and collaborative learning. There are no teachers and no tuition fees. The "Piscine" (name given to the initial phase) is an intensive 4-week immersion, where students solve various exercises to develop technical skills and teamwork abilities. The focus is on learning by doing, without traditional classes, which allows students to acquire knowledge autonomously and focus on practical results.
+ “Learning by doing. No teachers, no limits.”
 
-Repository Structure
-The repository is divided into modules, each containing exercises related to the topic covered. Below is an overview of the modules and the exercises within them:
+---
 
-Module C00 (Introduction to C)
-Exercice 00: ft_putchar
-Exercice 01: ft_print_alphabet
-Exercice 02: ft_print_reverse_alphabet
-Exercice 03: ft_print_numbers
-Exercice 04: ft_is_negative
-Exercice 05: ft_print_comb
+## 📘 About this Repository
 
-Module C01 (Manipulating Variables and Strings)
-Exercice 01: ft_ultimate_ft
-Exercice 02: ft_swap
-Exercice 03: ft_div_mod
-Exercice 04: ft_ultimate_div_mod
-Exercice 05: ft_putstr
-Exercice 06: ft_strlen
-Exercice 07: ft_strcpy
-Exercice 08: ft_strncpy
-Exercice 09: ft_str_is_alpha
-Exercice 10: ft_str_is_numeric
-Exercice 11: ft_str_is_lowercase
-Exercice 12: ft_str_is_uppercase
-Exercice 13: ft_str_is_printable
-Exercice 14: ft_strupcase
-Exercice 15: ft_strlowcase
+This repository contains the solutions to the exercises from the **42 Piscine**, with the aim of learning and deepening knowledge in **C** in a practical way.  
+Each directory corresponds to a set of exercises covering different topics:
 
-Module C02 (String Functions and Comparison)
-Exercice 00: ft_strcmp
-Exercice 01: ft_strncmp
-Exercice 02: ft_strcat
-Exercice 03: ft_strncat
-Exercice 04: ft_strstr
+- String manipulation  
+- Recursive programming  
+- Input/output operations  
+- Shell & file manipulation  
 
-Module C03 (Conversion and Output)
-Exercice 00: ft_strlen
-Exercice 01: ft_putstr
-Exercice 02: ft_putnbr
-Exercice 03: ft_atoi
+---
 
-Module C04 (Recursion and Factorial)
-Exercice 00: ft_iterative_factorial
-Exercice 01: ft_recursive_factorial
-Exercice 02: ft_iterative_power
-Exercice 03: ft_recursive_power
-Exercice 04: ft_fibonacci
-Exercice 05: ft_sqrt
-Exercice 06: ft_is_prime
+## ❓ What is 42?
 
-Module C05 (Input and Output of Parameters)
-Exercice 00: ft_print_program_name
-Exercice 01: ft_print_params
-Exercice 02: ft_rev_params
-Exercice 03: ft_sort_params
+**42** is a programming school based on a _project-driven_, _peer-to-peer_ model — no classes, no teachers, and no tuition fees.  
+The **Piscine** (French for "swimming pool") is a 4-week bootcamp where students dive deep into programming fundamentals, pushing their limits and working together to solve problems.
 
-Shell Programming
-Exercice 00: Z5
-Exercice 01: testShell006
-Exercice 02: Oh yeah, mooore...
-Exercice 03: SSH me!
-Exercice 04: midLS
-Exercice 05: GiT commit
-Exercice 06: gitignore
-Exercice 07: diff
-Exercice 08: clean
+---
 
-Extras
-Exercice 00: Exam4
-Exercice 01: print_groups
-Exercice 02: find_sh
-Exercice 03: count_files
-Exercice 04: MAC
-Exercice 05: Can you create it?
+## 🗂️ Repository Structure
 
-How to Run the Exercises
-Each directory contains the necessary files to run the exercises. To compile and execute the exercises, follow these steps:
+### 📍 Module C00 – Introduction to C
+- Ex 00: `ft_putchar`
+- Ex 01: `ft_print_alphabet`
+- Ex 02: `ft_print_reverse_alphabet`
+- Ex 03: `ft_print_numbers`
+- Ex 04: `ft_is_negative`
+- Ex 05: `ft_print_comb`
 
-Step 1: Clone the Repository
+### 🧵 Module C01 – Variables and Strings
+- Ex 01: `ft_ultimate_ft`
+- Ex 02: `ft_swap`
+- Ex 03: `ft_div_mod`
+- Ex 04: `ft_ultimate_div_mod`
+- Ex 05: `ft_putstr`
+- Ex 06: `ft_strlen`
+- Ex 07: `ft_strcpy`
+- Ex 08: `ft_strncpy`
+- Ex 09: `ft_str_is_alpha`
+- Ex 10: `ft_str_is_numeric`
+- Ex 11: `ft_str_is_lowercase`
+- Ex 12: `ft_str_is_uppercase`
+- Ex 13: `ft_str_is_printable`
+- Ex 14: `ft_strupcase`
+- Ex 15: `ft_strlowcase`
+
+### 🧪 Module C02 – String Functions & Comparisons
+- Ex 00: `ft_strcmp`
+- Ex 01: `ft_strncmp`
+- Ex 02: `ft_strcat`
+- Ex 03: `ft_strncat`
+- Ex 04: `ft_strstr`
+
+### 🔁 Module C03 – Conversion & Output
+- Ex 00: `ft_strlen`
+- Ex 01: `ft_putstr`
+- Ex 02: `ft_putnbr`
+- Ex 03: `ft_atoi`
+
+### 🧠 Module C04 – Recursion & Math
+- Ex 00: `ft_iterative_factorial`
+- Ex 01: `ft_recursive_factorial`
+- Ex 02: `ft_iterative_power`
+- Ex 03: `ft_recursive_power`
+- Ex 04: `ft_fibonacci`
+- Ex 05: `ft_sqrt`
+- Ex 06: `ft_is_prime`
+
+### 📥 Module C05 – Params & CLI
+- Ex 00: `ft_print_program_name`
+- Ex 01: `ft_print_params`
+- Ex 02: `ft_rev_params`
+- Ex 03: `ft_sort_params`
+
+### 🐚 Shell Programming
+- Ex 00: `Z5`
+- Ex 01: `testShell006`
+- Ex 02: `Oh yeah, mooore...`
+- Ex 03: `SSH me!`
+- Ex 04: `midLS`
+- Ex 05: `GiT commit`
+
+### 🧩 Extras
+- Ex 00: `Exam4`
+- Ex 01: `print_groups`
+- Ex 02: `find_sh`
+- Ex 03: `count_files`
+- Ex 04: `MAC`
+- Ex 05: `Can you create it?
+
+---
+
+## ⚙️ How to Run
+
+```bash
+# Step 1 – Clone the repository
 git clone https://github.com/spaderale/42_Piscine.git
 
-Step 2: Navigate to the Exercise of Your Choice
-For example, to access the ft_putchar exercise:
+# Step 2 – Navigate to the desired exercise
 cd C00/Exercice_00
 
-Step 3: Compile the Exercise
+# Step 3 – Compile it
 make
 
-Step 4: Run the Program
+# Step 4 – Run the executable
 ./ft_putchar
+```
 
-Description of Functions and Concepts
-This repository focuses on learning C through practical exercises involving:
-String and Variable Manipulation: Functions like ft_strcpy, ft_strlen, ft_strcat, among others, for working with strings.
-Recursion and Iteration: Functions like ft_recursive_factorial, ft_fibonacci, and ft_iterative_power to understand recursion concepts.
-Input and Output Operations: Functions like ft_putchar, ft_putnbr for learning data output, and also ft_atoi for converting string input to numbers.
-Shell Programming: Exercises exploring shell commands, like git commit, gitignore, and others.
+---
 
-If you have suggestions, improvements, or want to contribute to the project, feel free to:
-Fork the project.
-Create a new branch.
-Submit a pull request with your modifications.
-Collaboration is always welcome!
+## 🧠 Topics Covered
 
-License
-This project is in the public domain. Feel free to use and modify it as needed.
+- 🧵 **String/Variable Manipulation** – e.g., `ft_strcpy`, `ft_strlen`, `ft_strcat`
+- 🔁 **Recursion & Iteration** – e.g., `ft_recursive_factorial`, `ft_fibonacci`
+- 📤 **Input/Output** – `ft_putchar`, `ft_putnbr`, `ft_atoi`
+- 🐚 **Shell Programming** – `git commit`, `gitignore`, basic CLI commands
+
+---
+
+## 🤝 Contributing
+
+Got ideas or improvements?
+
+1. Fork the repo  
+2. Create a branch  
+3. Make your changes  
+4. Open a Pull Request 🙌
+
+---
+
+## 📜 License
+
+This project is in the **public domain**. Feel free to use and modify it as needed.
