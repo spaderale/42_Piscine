@@ -1,6 +1,15 @@
-# 🏊‍♂️ 42 Piscine Exercises – by Alexandre Spader
+ <p align="center">
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:000000,100:003366&height=200&section=header&text=42%20Piscine%20Survivor&fontSize=40&fontAlign=50&fontColor=ffffff" alt="banner" />
+</p>
 
- “Learning by doing. No teachers, no limits.”
+<p align="center">
+  <strong><i>𝙻𝚎𝚊𝚛𝚗𝚒𝚗𝚐 𝚋𝚢 𝚍𝚘𝚒𝚗𝚐. 𝙽𝚘 𝚝𝚎𝚊𝚌𝚑𝚎𝚛𝚜, 𝚗𝚘 𝚕𝚒𝚖𝚒𝚝𝚜.</i></strong><br>
+  <code>– by Alexandre Spader</code>
+</p>
+
+<hr>
+
+# 🏊‍♂️ 42 Piscine Exercises
 
 ---
 
@@ -18,9 +27,17 @@ Each directory corresponds to a set of exercises covering different topics:
 
 ## ❓ What is 42?
 
-**42** is a programming school based on a _project-driven_, _peer-to-peer_ model — no classes, no teachers, and no tuition fees.  
-The **Piscine** (French for "swimming pool") is a 4-week bootcamp where students dive deep into programming fundamentals, pushing their limits and working together to solve problems.
+*42* is a programming school based on a _project-driven_, _peer-to-peer_ model — no classes, no teachers, and no tuition fees.  
+The *Piscine* (French for "swimming pool") is a 4-week bootcamp where students dive deep into programming fundamentals, pushing their limits and working together to solve problems.
+---
 
+## 🛳️  What is the Piscine?
+The Piscine (French for "swimming pool") is an intense 4-week bootcamp where candidates dive into C programming and computer science basics.
+It’s all about persistence, teamwork, and learning through failure and repetition.
+
+Survive the Piscine, and you earn your spot in the full 42 program. 💪
+
+---
 ---
 
 ## 🗂️ Repository Structure
